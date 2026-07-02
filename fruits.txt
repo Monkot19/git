@@ -2,3 +2,4 @@ banana
 apple
 Mangosteen
 peach
+new fruit in feature
